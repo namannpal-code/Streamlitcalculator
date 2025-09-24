@@ -1,4 +1,4 @@
-import streamlit as stpyth
+import streamlit as st
 import requests
 import json
 
